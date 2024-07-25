@@ -1,0 +1,30 @@
+{"coord"
+:{"lon":74.59,
+  "lat":42.87},
+"weather":[
+    {"id":804,
+ "main":"Clouds",
+"description":"overcast clouds",
+"icon":"04d"}
+],
+"base":"stations",
+"main":
+{"temp":289.26,
+"feels_like":288.91,
+"temp_min":289.26,
+"temp_max":289.26,
+"pressure":1018,
+"humidity":76,
+"sea_level":1018,
+"grnd_level":918},
+"visibility":10000,
+"wind":{"speed":2.59,"deg":336,"gust":0.83},
+"clouds":{"all":100},"dt":1716437328,
+"sys":{"type":1,"id":8871,
+"country":"KG",
+"sunrise":1716420695,
+"sunset":1716474332},
+"timezone":21600,
+"id":1528675,
+"name":"Bishkek",
+"cod":200}
